@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "Apple Watch Series 8", "price": 399 },
+    { "id": 2, "name": "Samsung Galaxy Watch 6", "price": 349 },
+    { "id": 3, "name": "Garmin Venu 2", "price": 399 },
+    { "id": 4, "name": "Fitbit Sense 2", "price": 299 },
+    { "id": 5, "name": "Huawei Watch GT 3", "price": 249 }
+  ]
+  
